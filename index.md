@@ -1,8 +1,8 @@
----
-title: "Madlib's Studio Gear, circa 2005"
----
-
 # Madlib's Studio Gear, circa 2005
+
+*Originally published on [r/Madlib](https://www.reddit.com/r/Madlib/comments/1siqjw4/most_of_madlibs_gear_circa_2005_personal_research/), April 2026.*
+
+This page identifies the equipment in Madlib's home studio…
 
 This page identifies the equipment in Madlib's home studio setup around 2005. The main sources are the photo book *Behind the Beat: Hip Hop Home Studios* (Gingko Press, 2005) and the Stones Throw special produced in 2005 by the Norwegian Broadcasting Corporation (NRK) for its music program *Lydverket*, supplemented by photographs from the Madvillainy sessions, magazine features and tour coverage.
 
