@@ -1,18 +1,28 @@
 ---
-title: "Most of Madlib's Gear, circa 2005 — Personal Research"
+title: "Madlib's Studio Gear, circa 2005"
 ---
 
-# Most of Madlib's Gear, circa 2005
+# Madlib's Studio Gear, circa 2005
 
-*Personal research · originally posted on [r/Madlib](https://www.reddit.com/r/Madlib/comments/1siqjw4/most_of_madlibs_gear_circa_2005_personal_research/)*
+This page identifies the equipment in Madlib's home studio setup around 2005. The main sources are the photo book *Behind the Beat: Hip Hop Home Studios* (Gingko Press, 2005) and the Stones Throw special produced in 2005 by the Norwegian Broadcasting Corporation (NRK) for its music program *Lydverket*, supplemented by photographs from the Madvillainy sessions, magazine features and tour coverage.
 
-Sharing some of my research on identifying equipment Madlib used in his 2005 studio setup, mainly shown in the *Behind the Beat* photo book (2005, Gingko Press) and the Stones Throw 2005 documentary (Norwegian Broadcasting Corporation, for its music program *Lydverket*).
+## Samplers
 
-Interesting to note that he had not one, but **two Boss SP-303s** in his setup at the time: the first on top of a Tascam CD player, and a second one left of the MPC 4000.
+The setup included not one but **two Boss SP-303** samplers: one placed on top of a Tascam CD player, and a second to the left of the **Akai MPC 4000**.
 
-We can also see a ton of digital multitrack recorders from the time: an **Akai DPS12**, **Korg D1600 MkI and MkII**, **Roland VS-2000CD**, **Fostex VF-16**, and a **Tascam 2488**. Outside the digital realm, there is one multitrack cassette recorder, the **Tascam Portastudio 488**, which had already appeared in earlier pictures from the Lootpack era.
+## Multitrack recorders
 
-Hope y'all appreciate it.
+The studio held a large collection of the digital multitrack recorders of the period:
+
+- **Akai DPS12**
+- **Korg D1600** (MkI and MkII)
+- **Roland VS-2000CD**
+- **Fostex VF-16**
+- **Tascam 2488**
+
+The one analog exception is a cassette multitrack, the **Tascam Portastudio 488**, which already appears in earlier photographs from the Lootpack era.
+
+## Photographs
 
 <style>
 figure { margin: 2rem 0; }
@@ -88,5 +98,7 @@ figcaption { font-size: 0.9em; opacity: 0.75; margin-top: 0.5rem; font-style: it
 ---
 
 <small>*Fair use notice: images on this page are included solely for educational and illustrative purposes under the fair use doctrine (17 U.S.C. § 107). All rights belong to their respective original owners.*</small>
+
+An earlier version of this research was posted on [r/Madlib](https://www.reddit.com/r/Madlib/comments/1siqjw4/most_of_madlibs_gear_circa_2005_personal_research/).
 
 [← Back to camplaix.github.io](https://camplaix.github.io/)
