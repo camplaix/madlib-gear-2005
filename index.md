@@ -97,6 +97,4 @@ figcaption { font-size: 0.9em; opacity: 0.75; margin-top: 0.5rem; font-style: it
 
 <small>*Fair use notice: images on this page are included solely for educational and illustrative purposes under the fair use doctrine (17 U.S.C. § 107). All rights belong to their respective original owners.*</small>
 
-An earlier version of this research was posted on [r/Madlib](https://www.reddit.com/r/Madlib/comments/1siqjw4/most_of_madlibs_gear_circa_2005_personal_research/).
-
 [← Back to camplaix.github.io](https://camplaix.github.io/)
